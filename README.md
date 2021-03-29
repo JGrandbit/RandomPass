@@ -8,4 +8,4 @@ There are prompts for password criteria
 
 Once all prompts are answered, password will be generated and displayed on page
 
-
+Live link: https://jgrandbit.github.io/RandomPass/
